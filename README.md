@@ -3,7 +3,7 @@
 * For Software, I use the Visual Studio Code editor & Node version 12.18.1
 
 ## How to run the program :
-* Use command ```node``` *nama_file* in command line
+* Use command ```node``` *file_name* in command line
 
 for example
 ```
