@@ -1,0 +1,9 @@
+{
+  "name": "isobar-test",
+  "version": "1.0.0",
+  "description": "ISOBAR logic test",
+  "main": "index.js",
+  "repository": "https://github.com/dimasdompit",
+  "author": "Dimas Mokodompit",
+  "license": "MIT"
+}
